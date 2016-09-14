@@ -1,6 +1,7 @@
 # rafaelPereira-viniciusTandu
 #Projeto do semestre  
-#Tema: Público-alvo: 
+#Tema: 
+#Público-alvo: 
 #Objetivos do site: 
 #Funcionalidades do site: 
 #Usuário Administrador: 
